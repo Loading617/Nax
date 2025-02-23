@@ -1,2 +1,2 @@
 # Nax
-PDF Viewer and Editor Web App
+PDF Viewer and Editor for Web
